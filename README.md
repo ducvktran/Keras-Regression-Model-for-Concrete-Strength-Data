@@ -1,1 +1,2 @@
 # Keras-Regression-Model-for-Concrete-Strength-Data
+In this notebook, several keras regression models are built to predict the concrete compressive strength based on a few predictors. This was done as part of the IBM AI Engineering Professional Certificate. To view this notebook in nbviewer, please see [here](https://nbviewer.org/github/ducvktran/Keras-Regression-Model-for-Concrete-Strength-Data/blob/main/Keras_Regression_Model_for_Concrete_Strength_Data.ipynb).
